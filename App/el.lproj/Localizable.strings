@@ -412,7 +412,7 @@
 
 // MARK: Purchase Flow
 "purchase_unknown_error" = "Unknown error. Please contact me at developer@rocketscience-it.nl.";
-"purchase_not_allowed" = "Not allowed to make the payment.";
+"purchase_not_allowed" = "The device is not allowed to make the payment.";
 "purchase_invalid_id" = "The purchase identifier was invalid.";
 "purchase_not_allowed" = "The device is not allowed to make the payment.";
 "purchase_not_available" = "The product is not available in the current storefront.";
