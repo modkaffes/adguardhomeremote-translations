@@ -1,0 +1,9 @@
+files:
+  - source: /App/en.lproj/
+    translation: /App/%two_letters_code%.lproj/%original_file_name%
+  - source: /AppStoreDescription/en.txt
+    translation: /AppStoreDescription/%two_letters_code%.txt
+  - source: /InfoPlist/en.lproj/
+    translation: /InfoPlist/%two_letters_code%.lproj/%original_file_name%
+  - source: /Widgets/en.lproj/
+    translation: /Widgets/%two_letters_code%.lproj/%original_file_name%
